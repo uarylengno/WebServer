@@ -1,0 +1,12 @@
+2026-10-04 08:45:24 - Koneksi database gagal: SQLSTATE[HY000] [1049] Unknown database 'si_akademik'
+2026-10-04 08:45:35 - Koneksi database gagal: SQLSTATE[HY000] [1049] Unknown database 'si_akademik'
+2026-10-04 08:47:46 - Koneksi database gagal: SQLSTATE[HY000] [1049] Unknown database 'si_akademik'
+2026-10-04 11:32:14 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:33:33 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:33:43 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:34:44 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:35:09 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:36:55 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:36:56 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:37:26 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
+2026-10-04 11:37:43 - Gagal mengambil data mahasiswa: Too few arguments to function App\Models\Mahasiswa::__construct(), 0 passed in C:\xampp\htdocs\BKPM-Web-Server\ACARA14\app\Repositories\MahasiswaRepository.php on line 100 and at least 2 expected
